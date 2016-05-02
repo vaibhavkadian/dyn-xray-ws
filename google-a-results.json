@@ -1,0 +1,132 @@
+[
+  {
+    "a": "Images",
+    "href": "http://www.google.co.in/imghp?hl=en&tab=wi",
+    "css": "gb1"
+  },
+  {
+    "a": "Maps",
+    "href": "http://maps.google.co.in/maps?hl=en&tab=wl",
+    "css": "gb1"
+  },
+  {
+    "a": "Play",
+    "href": "https://play.google.com/?hl=en&tab=w8",
+    "css": "gb1"
+  },
+  {
+    "a": "YouTube",
+    "href": "http://www.youtube.com/?gl=IN&tab=w1",
+    "css": "gb1"
+  },
+  {
+    "a": "News",
+    "href": "http://news.google.co.in/nwshp?hl=en&tab=wn",
+    "css": "gb1"
+  },
+  {
+    "a": "Gmail",
+    "href": "https://mail.google.com/mail/?tab=wm",
+    "css": "gb1"
+  },
+  {
+    "a": "Drive",
+    "href": "https://drive.google.com/?tab=wo",
+    "css": "gb1"
+  },
+  {
+    "a": "More »",
+    "href": "https://www.google.co.in/intl/en/options/",
+    "css": "gb1"
+  },
+  {
+    "a": "Web History",
+    "href": "http://www.google.co.in/history/optout?hl=en",
+    "css": "gb4"
+  },
+  {
+    "a": "Settings",
+    "href": "http://google.com/preferences?hl=en",
+    "css": "gb4"
+  },
+  {
+    "a": "Sign in",
+    "href": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.co.in/%3Fgfe_rd%3Dcr%26ei%3DmW8nV5ztHoXT8gfF9auYBg",
+    "css": "gb4"
+  },
+  {
+    "href": "http://google.com/search?site=&ie=UTF-8&q=Mario+Miranda&oi=ddle&ct=mario-mirandas-90th-birthday-5168902390677504-hp&hl=en&sa=X&ved=0ahUKEwi1-5H117vMAhXHRI4KHWJCBFgQNggD"
+  },
+  {
+    "a": "Advanced search",
+    "href": "http://google.com/advanced_search?hl=en-IN&authuser=0"
+  },
+  {
+    "a": "Language tools",
+    "href": "http://google.com/language_tools?hl=en-IN&authuser=0"
+  },
+  {
+    "a": "हिन्दी",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=hi&source=homepage"
+  },
+  {
+    "a": "বাংলা",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=bn&source=homepage"
+  },
+  {
+    "a": "తెలుగు",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=te&source=homepage"
+  },
+  {
+    "a": "मराठी",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=mr&source=homepage"
+  },
+  {
+    "a": "தமிழ்",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=ta&source=homepage"
+  },
+  {
+    "a": "ગુજરાતી",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=gu&source=homepage"
+  },
+  {
+    "a": "ಕನ್ನಡ",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=kn&source=homepage"
+  },
+  {
+    "a": "മലയാളം",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=ml&source=homepage"
+  },
+  {
+    "a": "ਪੰਜਾਬੀ",
+    "href": "http://www.google.co.in/setprefs?sig=0_ttAO5fkIYKx0kLMg-F0BEnxWFdM%3D&hl=pa&source=homepage"
+  },
+  {
+    "a": "Advertising�Programs",
+    "href": "http://google.com/intl/en/ads/"
+  },
+  {
+    "a": "Business Solutions",
+    "href": "http://www.google.co.in/services/"
+  },
+  {
+    "a": "+Google",
+    "href": "https://plus.google.com/104205742743787718296"
+  },
+  {
+    "a": "About Google",
+    "href": "http://google.com/intl/en/about.html"
+  },
+  {
+    "a": "Google.com",
+    "href": "http://www.google.co.in/setprefdomain?prefdom=US&sig=__ziRiwuddQz9jOazVa1ijMVy9Yxg%3D"
+  },
+  {
+    "a": "Privacy",
+    "href": "http://google.com/intl/en/policies/privacy/"
+  },
+  {
+    "a": "Terms",
+    "href": "http://google.com/intl/en/policies/terms/"
+  }
+]
